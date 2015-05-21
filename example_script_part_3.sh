@@ -1,13 +1,13 @@
 # Example Script Part 3 - Platform-as-a-Service
 
 # Make sure that you've installed the Heroku Toolbelt:
-open https://toolbelt.heroku.com/
+open https://toolbelt.heroku.com
 
 # If you haven't already done so, make an account:
-open https://toolbelt.heroku.com/
+open https://signup.heroku.com
 
-# Log in to Heroku Toolbelt (don't forget your credentials from the
-# previous step):
+# Log in to Heroku Toolbelt -- don't forget your credentials from the
+# previous step:
 heroku login
 
 # Let's download a sample Ruby on Rails app:

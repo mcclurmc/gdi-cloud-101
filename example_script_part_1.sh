@@ -18,7 +18,7 @@ cd ~/Desktop
 ls
 
 # Let's download a file from the Internet (don't worry, this is safe)
-wget http://photos3.meetupstatic.com/photos/event/6/7/b/8/highres_397346552.jpeg -O GDI.jpg
+wget http://goo.gl/j9eH3S -O GDI.jpg
 
 # Pick a file, and type 'open the_file_name'. What happens?
 open GDI.jpg
